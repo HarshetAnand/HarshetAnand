@@ -1,6 +1,14 @@
-# Hi, I'm Harshet
+<h1 align="center">Hi, I'm Harshet</h1>
 
-Data Scientist and founder building [Rentle](https://rentleapp.com), a mobile-first student housing marketplace launching first at UW-Madison.
+<p align="center">
+  Data Scientist and founder building <a href="https://rentleapp.com">Rentle</a>, a mobile-first student housing marketplace launching first at UW-Madison.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/harshet-anand"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://rentleapp.com"><img src="https://img.shields.io/badge/Rentle-4DC9C2?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="mailto:harshet.a03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ## Currently
 
@@ -23,14 +31,41 @@ Data Scientist and founder building [Rentle](https://rentleapp.com), a mobile-fi
 
 ## Tech Stack
 
-- **Languages:** Java, Python, R, C, C++, C#, SQL, JavaScript, Bash, HTML, CSS
-- **Frameworks:** PyTorch, .NET, Pytest, JUnit
-- **Data Science:** Pandas, NumPy, scikit-learn, spaCy, Streamlit
-- **Frontend:** React, React Native, Vite, Expo Router
-- **Backend:** Firebase, Google Cloud Platform, AWS
-- **Databases:** SQL, Databricks
-- **BI & Analytics:** Tableau, Power BI, Looker Studio
-- **Tools:** HubSpot, Zapier, Vercel, Azure DevOps, Git, Jupyter, RStudio
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**Frameworks & Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend & Databases**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+
+**BI & Analytics**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ## Featured Projects
 
@@ -41,8 +76,9 @@ Data Scientist and founder building [Rentle](https://rentleapp.com), a mobile-fi
 - **[Financial Security](https://github.com/HarshetAnand/Enhancing-Financial-Security)** — Credit card fraud detection ML with imbalanced data handling
 - **[Job Search Automation](https://github.com/HarshetAnand/Job-Search-Email-Automation)** — Selenium automation that helped me land my Data Analyst role
 
-## Connect
+## GitHub Stats
 
-- Email: harshet.a03@gmail.com
-- LinkedIn: [linkedin.com/in/harshet-anand](https://linkedin.com/in/harshet-anand)
-- Rentle: [rentleapp.com](https://rentleapp.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshetAnand&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshetAnand&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
