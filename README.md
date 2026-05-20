@@ -70,6 +70,7 @@
 ## Featured Projects
 
 - **[Rentle](https://rentleapp.com)** — Mobile-first student housing marketplace built with React Native, Firebase, Expo Router, and Google Places API
+- **[Lead Scoring Model](https://github.com/HarshetAnand/Lead-Scoring-Bank-Marketing)** — Logistic regression lead scoring on UCI Bank Marketing data with AUC 0.91, score bucketing, and Streamlit demo
 - **[Spreadsheet Cleaner](https://github.com/HarshetAnand/Spreadsheet-Cleaner)** — AI-powered data cleaning web app built with Streamlit
 - **[COVID-19 State Clustering](https://github.com/HarshetAnand/COVID-19-State-Clustering)** — Clustering US states by COVID-19 spread patterns using hierarchical clustering and K-means
 - **[MNIST Digit Classifier](https://github.com/HarshetAnand/MNIST-Digit-Classifier)** — Neural network from scratch for handwritten digit classification
