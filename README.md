@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harshet</h1>
 
 <p align="center">
-  Data Scientist and founder building <a href="https://rentleapp.com">Rentle</a>, a mobile-first student housing marketplace launching first at UW-Madison.
+  Data Scientist and founder building <a href="https://rentleapp.com">Rentle</a>, a mobile-first student housing marketplace app.
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 - Bachelor of Science in Computer Science and Data Science, University of Wisconsin-Madison (2025)
 - Recognized in UW-Madison CDIS Student Spotlight (October 2024) and Graduate Spotlight (May 2025)
-- Featured in Wisconsin State Journal, Daily Cardinal, Badger Herald, and Wisconsin Alumni Association
+- Rentle featured in Wisconsin State Journal, Daily Cardinal, Badger Herald, and Wisconsin Alumni Association
 
 ## Tech Stack
 
