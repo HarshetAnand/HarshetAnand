@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harshet</h1>
 
 <p align="center">
-  Data Scientist and founder building <a href="https://rentleapp.com">Rentle</a>, a mobile-first student housing marketplace app.
+  Data Scientist and founder building <a href="https://rentleapp.com">Rentle</a>, a mobile-first student housing marketplace.
 </p>
 
 <p align="center">
