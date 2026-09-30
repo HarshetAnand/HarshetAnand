@@ -12,7 +12,7 @@
 
 ## Currently
 
-- Building Rentle, with 15+ property partners signed and launch coming September 2026
+- Building Rentle, with 15+ property partners signed, successfully launched at UW-Madison in fall 2026.
 - Previously Data Analyst at F Street Capital, working on lead scoring models and marketing analytics
 
 ## Recent Experience
