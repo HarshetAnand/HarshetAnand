@@ -13,11 +13,11 @@
 ## Currently
 
 - Building Rentle, with 15+ property partners signed, successfully launched at UW-Madison in fall 2026.
-- Previously Data Analyst at F Street Capital, working on lead scoring models and marketing analytics
+- Previously Data Analyst at F Street, working on lead scoring models and marketing analytics
 
 ## Recent Experience
 
-**Data Analyst at F Street Capital** (Aug 2025 - Apr 2026)
+**Data Analyst at F Street** (Aug 2025 - Apr 2026)
 - Built logistic regression lead scoring model (AUC 0.84) on 3,000+ loan applications
 - Multi-state WARN notice scraping system across 44 states
 - Identified top 20% VIP borrower cohort driving 30% of total loan volume
