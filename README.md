@@ -12,7 +12,7 @@
 
 ## Currently
 
-- Building Rentle, launched at UW-Madison in fall 2026 with 15+ property-management partners
+- Building Rentle, launched at UW-Madison in fall 2026, now with 40+ apartment buildings and 75+ student users
 - Previously Data Analyst at F Street, working on lead scoring models and marketing analytics
 
 ## Recent Experience
